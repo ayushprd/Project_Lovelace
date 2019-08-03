@@ -8,5 +8,5 @@ def NAND(A, B):
         nand = 1
     elif A == 1 and B == 1:
         nand = 0
-    
+        
     return nand
